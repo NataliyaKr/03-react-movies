@@ -1,14 +1,5 @@
-import { useState } from 'react'
-
-
 function App() {
-  const [movies, setMovies] = useState(0)
-
-  return (
-    <>
-      
-    </>
-  )
+  return <></>;
 }
 
-export default App
+export default App;
